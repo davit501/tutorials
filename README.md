@@ -34,3 +34,6 @@ source /work/submit/jaeyserm/software/FCCAnalyses/setup.sh
 ```
 
 You can now run the tutorials!
+
+Davit Kldiashvili <davit501@mit.edu>
+Optimizing a measurement of the W mass at the FCC-ee
